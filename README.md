@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm assassinator ! :sunglasses:
+
+rust player.
+
+[![pCr5xBj.png](https://s1.ax1x.com/2023/07/03/pCr5xBj.png)](https://imgse.com/i/pCr5xBj)
+
 <!--
 **assassinatorsss/assassinatorsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
